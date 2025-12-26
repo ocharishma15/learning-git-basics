@@ -1,10 +1,9 @@
-## Name
-Charishma
+# Learning Git Basics
 
-## Date
-26-Dec-2025
+**Name:** Charishma  
+**Date:** 26-12-2025  
 
-## Today I learned
-- What Git is
-- How to create a GitHub repository
-- How to add and commit a README file
+**What I learned about Git:**  
+1. Git helps track changes in files.  
+2. GitHub stores Git projects online.  
+3. Git allows collaboration and version control.
